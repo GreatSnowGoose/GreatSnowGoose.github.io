@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "HoNK HOnK"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Snow Goose's Nest"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Snow Goose"
+  image = "img/avatar.png"
+  headline = "A self-identified wild goose, longing to become a silicon-based life form."
+  bio = "A Self-identified Wild Goose."
+  links = [
+    { email = "mailto:snowgoose0818@gmail.com" },
+    { mastodon = "https://g0v.social/@qinghan_4967" },
+  ]
