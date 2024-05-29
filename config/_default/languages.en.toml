@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "HoNK HOnK"
+contentDir = 'content/en'
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Snow Goose Honks"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Snow Goose"
+  image = "img/avatar.png"
+  headline = "A self-identified wild goose, longing to become a silicon-based life form."
+  bio = "A Self-identified Wild Goose"
+  links = [
+    { email = "mailto:snowgoose0818@gmail.com" },
+    { github = "https://github.com/GreatSnowGoose" },
+  ]
