@@ -9,7 +9,7 @@ series: ["Coding Essentials for My Successor"]
 series_order: 0
 ---
 
-As I'm leaving my current pre-doc position in mid-July, my supervisor asked me to create a brief tutorial for my successor. This tutorial could include things that are frequently used in my work or that I wished I had learned before I started. I was a little hesitant about this at first since all of the skills are quite task-specific, and the only thing I have consistently used is Google. Sometimes, I feel like I am too curious about too many things, so I may waste a lot of time looking for a one-time solution. Additionally, learning new things is the most fun part of the job. If I share too much, am I depriving my successor of the fun part of the job?
+As I'm leaving my current position in mid-July, my supervisor asked me to create a brief tutorial for my successor. This tutorial could include things that are frequently used in my work or that I wished I had learned before I started. I was a little hesitant about this at first since all of the skills are quite task-specific, and the only thing I have consistently used is Google. Sometimes, I feel like I am too curious about too many things, so I may waste a lot of time looking for a one-time solution. Additionally, learning new things is the most fun part of the job. If I share too much, am I depriving my successor of the fun part of the job?
 
 I soon felt reconciled to this. If there is too much to learn, then the fun part will never be depleted. Although I'm worried the skills are task-specific, there is some overlap, and I have always used what I learned more than once. It's still hard to say what I wish I had learned before I started, but I can share what I learned on the job.
 
