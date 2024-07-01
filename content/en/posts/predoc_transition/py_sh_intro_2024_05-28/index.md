@@ -2,7 +2,7 @@
 title: "Python Introduction"
 date: 2024-05-29T12:47:35-06:00
 lastmod: 2024-05-30T16:35:35-06:00
-draft: true
+draft: false
 summary: "Some very very basic python knowledge that can be found everywhere online."
 tags: ["tutorial", "coding", "python"]
 categories: ["TechDoc"]
